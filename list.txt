@@ -1,9 +1,9 @@
 [
     {
         "name": "FLG Grabi",
-        "cn": "SK",
-        "glider": "Discus2b",
-        "comp": "Std Class",
-        "flarm": ["D00974"]
+        "cn": "GX",
+        "glider": "Discus2ct",
+        "comp": "18m Class",
+        "flarm": ["DF0EE7"]
     }
 ]
