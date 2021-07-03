@@ -1,0 +1,9 @@
+[
+    {
+        "name": "FLG Grabi",
+        "cn": "SK",
+        "glider": "Discus2b",
+        "comp": "Std Class",
+        "flarm": ["D00974"]
+    }
+]
