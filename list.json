@@ -8,7 +8,7 @@
     },
     {
         "name": "Gegner",
-        "cn": "GEG",
+        "cn": "GE",
         "glider": "Bad",
         "comp": "Doubleseater Class",
         "flarm": ["DF092A"]
