@@ -1,10 +1,9 @@
-  
 [
     {
         "name": "FLG Grabi",
-        "cn": "GX",
-        "glider": "Discus2ct",
-        "comp": "18m Class",
-        "flarm": ["DF0EE7"]
+        "cn": "GT2",
+        "glider": "Duo DiscusXLT",
+        "comp": "Doubleseater Class",
+        "flarm": ["DDEBAE"]
     }
 ]
