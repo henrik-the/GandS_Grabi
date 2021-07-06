@@ -1,0 +1,16 @@
+[
+    {
+        "name": "FLG Grabi",
+        "cn": "GT2",
+        "glider": "Duo DiscusXLT",
+        "comp": "Doubleseater Class",
+        "flarm": ["DDEBAE"]
+    },
+    {
+        "name": "Gegner",
+        "cn": "GE",
+        "glider": "Bad",
+        "comp": "Doubleseater Class",
+        "flarm": ["DF092A"]
+    }
+]
