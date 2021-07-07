@@ -1,16 +1,16 @@
 [
     {
-        "name": "FLG Grabi",
+        "name": "FLG Grabenstetten",
         "cn": "GT2",
         "glider": "Duo DiscusXLT",
         "comp": "Doubleseater Class",
         "flarm": ["DDEBAE"]
     },
     {
-        "name": "Gegner",
-        "cn": "GE",
-        "glider": "Bad",
+        "name": "Tippelreither & Burgstaller",
+        "cn": "Y1",
+        "glider": "Duo Discus XLT",
         "comp": "Doubleseater Class",
-        "flarm": ["DF092A"]
+        "flarm": ["DDDF18"]
     }
 ]
