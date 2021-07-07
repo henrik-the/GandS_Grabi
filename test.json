@@ -2,7 +2,7 @@
     {
         "name": "FLG Grabenstetten",
         "cn": "GT2",
-        "glider": "Duo DiscusXLT",
+        "glider": "Duo Discus XLT",
         "comp": "Doubleseater Class",
         "flarm": ["DDEBAE"]
     },
@@ -12,5 +12,26 @@
         "glider": "Duo Discus XLT",
         "comp": "Doubleseater Class",
         "flarm": ["DDDF18"]
+    },
+    {
+        "name": "Severin Lohberger",
+        "cn": "FL",
+        "glider": "Ventus 2cxM",
+        "comp": "18m class",
+        "flarm": ["DF092A"]
+    },
+    {
+        "name": "Karl Schuster",
+        "cn": "ALV",
+        "glider": "LS-8",
+        "comp": "Std. class",
+        "flarm": ["DDEB73"]
+    },
+    {
+        "name": "Puttinger & Zahnt",
+        "cn": "SMS",
+        "glider": "Duo Discus XLT",
+        "comp": "Doubleseater class",
+        "flarm": ["DDDD73"]
     }
 ]
